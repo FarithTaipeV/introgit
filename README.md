@@ -1,4 +1,4 @@
-# introgit
+# Introducción a Git
 
 ## Sección 1
 
